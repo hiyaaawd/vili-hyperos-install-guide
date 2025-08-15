@@ -1,3 +1,8 @@
+#prep:
+1. install and setup vmbeta (samsung) and twrp and adb
+
+
+
 # Woah there!
 If you are not familiar with adb or fastboot, I don't recommend you attempt this guide.\
 I was a noob once too, and I accidentally hard bricked my first device attempting to run a custom ROM on it.\
