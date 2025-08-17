@@ -1,5 +1,6 @@
-#prep:
+# prep:
 1. install and setup vmbeta (samsung) and twrp and adb
+2. like a good lil gb
 
 
 
